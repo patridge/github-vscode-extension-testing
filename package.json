@@ -1,0 +1,24 @@
+{
+	"name": "github-vscode-extension-testing",
+	"displayName": "GitHub VS Code extension testing",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "patridge",
+	"homepage": "https://github.com/patridge/docs-authoring-pack-lite",
+	"bugs": {
+		"url": "https://github.com/patridge/docs-authoring-pack-lite/issues"
+	},
+	"repository": {
+		"url": "https://github.com/patridge/docs-authoring-pack-lite.git"
+	},
+	"categories": [ "Extension Packs" ],
+	"keywords": [
+		"markdown"
+	],
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"extensionPack": [
+		"DavidAnson.vscode-markdownlint"
+	]
+}
